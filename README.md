@@ -1,5 +1,7 @@
 # geoimagine-setup_db
 
+%%%% Edits added by "githubuser" marked by "%%"  %%%%
+
 Karttur Geoimagine database setup python project
 
 ## Introduction
